@@ -239,43 +239,85 @@
 #### &ensp;不劳而获：reap without sowing
 #### &ensp;不断努力：make constant efforts
 #### &ensp;决不放弃：never give up
-#### &ensp;取得：
-#### &ensp;创新：
-#### &ensp;勤奋：
-#### &ensp;奋斗精神：
-#### &ensp;拼搏精神：
-#### &ensp;人生观：
-#### &ensp;世界观：
-#### &ensp;耐心：
-#### &ensp;谨慎：
-#### &ensp;出国：
-#### &ensp;就业：
-#### &ensp;创业：
-#### &ensp;积极态度：
-#### &ensp;齐心协力：
-#### &ensp;团队精神：
-#### &ensp;高估苦难：
-#### &ensp;低估能力：
-#### &ensp;谦虚：
+#### &ensp;取得：achieve success
+#### &ensp;创新：innovation
+#### &ensp;勤奋：diligence
+#### &ensp;奋斗精神：striving spirit
+#### &ensp;拼搏精神：determined spirit
+#### &ensp;人生观：outlook on life
+#### &ensp;世界观：outlook on the world
+#### &ensp;耐心：patience
+#### &ensp;谨慎：prudence
+#### &ensp;出国：study abroad/overseas
+#### &ensp;就业：seeking employment
+#### &ensp;创业：buid up one's own business
+#### &ensp;积极态度：positve attitude
+#### &ensp;齐心协力：joint efforts cooperative
+#### &ensp;团队精神：team spirit
+#### &ensp;高估苦难：exaggerate/overestimate difficulties
+#### &ensp;低估能力：underestimate one's ablities
+#### &ensp;谦虚：modesty
 ##   4.环境保护
-#### &ensp;满足：
-#### &ensp;引导：
-#### &ensp;目的：
-#### &ensp;画家：
-#### &ensp;摄影师：
-#### &ensp;反：
-#### &ensp;打击：
-#### &ensp;射手：
-#### &ensp;枪手：
-#### &ensp;商业化：
-#### &ensp;过度捕捞：
-#### &ensp;捕鱼船：
-#### &ensp;海洋资源：
-#### &ensp;环境保护：
-#### &ensp;增强环境保护意识：
-#### &ensp;保持生态平衡：
-#### &ensp;保持有规律的生活：
-#### &ensp;生态系统：
-#### &ensp;自然保护区：
-#### &ensp;可持续发展：
-#### &ensp;宜人的生态环境：
+#### &ensp;满足：meet needs,deduce reach demmands
+#### &ensp;引导：induce
+#### &ensp;目的：aim intention
+#### &ensp;画家：cartoonist
+#### &ensp;摄影师：photographer
+#### &ensp;反：counter
+#### &ensp;打击：strike
+#### &ensp;射手：striker
+#### &ensp;枪手：shoter
+#### &ensp;商业化：commercialize
+#### &ensp;过度捕捞：overfishing
+#### &ensp;捕鱼船：fishing-boat
+#### &ensp;海洋资源：ocean resources
+#### &ensp;环境保护：envionment protection
+#### &ensp;增强环境保护意识：enhance/improve the awareness of environment protection
+#### &ensp;保持生态平衡：maintain econological balance
+#### &ensp;保持有规律的生活：maintain wholesome and regular life style
+#### &ensp;生态系统：ecosystem
+#### &ensp;自然保护区：nature reserve
+#### &ensp;可持续发展战略：sustainable development stragy
+#### &ensp;宜人的生态环境：pleasant environment
+#### &ensp;节能：save energy
+#### &ensp;减排：reduce greenhouse gas emissions
+#### &ensp;降低能源消耗：slow down the rate of resource consumption
+#### &ensp;环保产品：environment-friendly product
+#### &ensp;全球变暖：global warming
+#### &ensp;低碳经济：low carbon economy
+#### &ensp;清洁可再生能源：clean and renewable energy sources
+#### &ensp;核能：nuclear energy
+#### &ensp;太阳能：solar enerrgy
+#### &ensp;阴历：lunar calendar
+#### &ensp;大功率电器：high-powerd electrical applicance
+#### &ensp;气候变化：climate change
+#### &ensp;环境恶化：environment deterioration
+#### &ensp;毁林：deforestation clea-cutting 
+#### &ensp;过度开采：overexploitation
+#### &ensp;水土流失：soil erosion
+#### &ensp;荒漠化：desertification
+#### &ensp;人口增长：population grownth/explosion
+#### &ensp;野生动物保护：wildlife conservation
+#### &ensp;濒危物种：endangered species
+#### &ensp;商业捕捞：commercial fishing
+#### &ensp;过度捕捞：overfishing
+#### &ensp;自然灾害：natural diaster
+#### &ensp;破坏性地震：disastrous/destructive earthquake
+#### &ensp;沙尘暴：sandstrom
+#### &ensp;旱灾：drought
+#### &ensp;水灾：flood
+#### &ensp;期限治理：bring under control within the prescribed time limit
+#### &ensp;白色污染：white pollution
+#### &ensp;限制使用一次性塑料袋：limit the use of disposable plastic bags
+#### &ensp;一次性筷子：disposable chopsticks
+#### &ensp;乱扔垃圾：litter,trash,throw,discard
+#### &ensp;空气污染：air pollutant concentrations
+#### &ensp;尾气排放：motor vehicle emissions
+#### &ensp;尾气净化器：exhausted purifier
+#### &ensp;无铅汽油：lead-free/unload gasoline/petol
+#### &ensp;电动汽车：electric car
+#### &ensp;天然气汽车：gas-tueled car
+#### &ensp;小排放量汽车：low-emission car
+#### &ensp;工业粉尘排放：industrial dust discharge
+#### &ensp;烟尘排放：soot emissions
+#### &ensp;矿物燃料：fossil fuel coal oil and natural gas
